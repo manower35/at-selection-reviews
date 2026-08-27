@@ -1,0 +1,3 @@
+# Git Ignore for AT SELECTION Project
+__pycache__/
+*.pyc
